@@ -20,7 +20,6 @@ namespace YARG
         private async void Start()
         {
             using var context = new LoadingContext();
-            context.SetLoadingText("Loading song sources...");
             try
             {
                 await SongSources.LoadSources(context);
@@ -32,6 +31,7 @@ namespace YARG
 
             // Fast scan (cache read) on startup
             await SongContainer.RunRefresh(true, context);
+            SongSources.LoadSprites(context);
         }
     }
 

@@ -304,7 +304,7 @@ namespace YARG.Menu.MusicLibrary
                 Refresh();
 
                 // Select playlist button
-                SetIndexTo(i => i is ButtonViewType { Id: PLAYLIST_ID });
+                SetIndexTo(i => i is ButtonViewType { ID: PLAYLIST_ID });
             }, BACK_ID));
 
             // Return if there are no songs (or they haven't loaded yet)
