@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 3a9bcee39b5c3b54cb16a5cbee30d983
+timeCreated: 1714755722
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  externalObjects: {}
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Halogen
+  fontNames:
+  - Halogen
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0256bef55dd33ea4c84b106f52df4872, type: 3}
+  customCharacters:
+  fontRenderingMode: 0
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:

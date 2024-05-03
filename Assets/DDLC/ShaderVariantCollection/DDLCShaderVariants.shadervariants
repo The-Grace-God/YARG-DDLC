@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!200 &20000000
+ShaderVariantCollection:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DDLCShaderVariants
+  m_Shaders:
+  - first: {fileID: 4800000, guid: 0000000deadbeef15deadf00d0000000, type: 2}
+    second:
+      variants:
+      - keywords: ETC1_EXTERNAL_ALPHA
+        passType: 0
+  - first: {fileID: 4800000, guid: 0000000deadbeef15deadf00d0000000, type: 2}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: UNITY_UI_CLIP_RECT
+        passType: 0
+      - keywords: UNITY_UI_ALPHACLIP
+        passType: 0
+      - keywords: UNITY_UI_ALPHACLIP UNITY_UI_CLIP_RECT
+        passType: 0
+  - first: {fileID: 4800000, guid: 0000000deadbeef15deadf00d0000000, type: 2}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: 0000000deadbeef15deadf00d0000000, type: 2}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: 0000000deadbeef15deadf00d0000000, type: 2}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: 0000000deadbeef15deadf00d0000000, type: 2}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: 0000000deadbeef15deadf00d0000000, type: 2}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: 0000000deadbeef15deadf00d0000000, type: 2}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: 0000000deadbeef15deadf00d0000000, type: 2}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: d37a8c5e2d13f5c44a02a0664346e100, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: be1c5a69fa9376043898e743b9ea230b, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: BLOOM_LOW
+        passType: 0
+      - keywords: FINALPASS
+        passType: 0
+      - keywords: BLOOM_LOW FINALPASS
+        passType: 0
+  - first: {fileID: 4800000, guid: 4033babd092151c4fb08a34c265fd70d, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: e324556ac7903694a84193b010625f21, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: ca8865efe0e721e4aa5d04ef5bd29433, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: 5b5ed56badc6a5b4480f35958d201129, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: c77de05b1a942a54988d5c0418411eec, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: 0bd30afcff0c1fa4380df4619e91b830, type: 3}
+    second:
+      variants:
+      - keywords: ETC1_EXTERNAL_ALPHA
+        passType: 0
+  - first: {fileID: 4800000, guid: 92ac5833f97d6244db5d88c21081f142, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: dab4711e4ed05ce4ab8794516dede0d8, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: UNDERLAY_ON
+        passType: 0
+      - keywords: UNITY_UI_CLIP_RECT
+        passType: 0
+  - first: {fileID: 4800000, guid: ee3adc458cf1c6a45828566dd4789195, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: a2d289169e18f0546a5e7ca5e409574c, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: OUTLINE_ON
+        passType: 0
+      - keywords: UNITY_UI_CLIP_RECT
+        passType: 0
