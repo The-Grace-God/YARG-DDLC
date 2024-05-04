@@ -149,7 +149,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _Background: {r: 0, g: 0.043137237, b: 0.09803919, a: 1}
-    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseColor: {r: 0.8679245, g: 0.8679245, b: 0.8679245, a: 1}
     - _BaseColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
     - _CameraFadeParams: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
@@ -164,7 +164,7 @@ Material:
     - _Pole_A: {r: 0, g: 0.8588235, b: 0.9921569, a: 1}
     - _Pole_B: {r: 0.9294118, g: 0.18823525, b: 0.12549016, a: 1}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Scroll: {r: -0.25, g: 0.5, b: 0, a: 0}
+    - _Scroll: {r: -0.1, g: 0.2, b: 0, a: 0}
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _Tiles: {r: 16, g: 9, b: 0, a: 0}

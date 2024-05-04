@@ -205,16 +205,16 @@ MonoBehaviour:
 
     FAMOUS BY'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: ae170e91fd29a90479e906ddffb1d8ee, type: 2}
-  m_sharedMaterial: {fileID: -5480317595949376055, guid: ae170e91fd29a90479e906ddffb1d8ee,
+  m_fontAsset: {fileID: 11400000, guid: abdeeaba7e73d34408864db11f718c33, type: 2}
+  m_sharedMaterial: {fileID: 2285606050882678748, guid: abdeeaba7e73d34408864db11f718c33,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294042673
-  m_fontColor: {r: 0.19215687, g: 0.89411765, b: 0.94509804, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -457,16 +457,16 @@ MonoBehaviour:
       m_Calls: []
   m_text: Side Text
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: ae170e91fd29a90479e906ddffb1d8ee, type: 2}
-  m_sharedMaterial: {fileID: -5480317595949376055, guid: ae170e91fd29a90479e906ddffb1d8ee,
+  m_fontAsset: {fileID: 11400000, guid: abdeeaba7e73d34408864db11f718c33, type: 2}
+  m_sharedMaterial: {fileID: 2285606050882678748, guid: abdeeaba7e73d34408864db11f718c33,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -760,16 +760,16 @@ MonoBehaviour:
       m_Calls: []
   m_text: Song Artist
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: ae170e91fd29a90479e906ddffb1d8ee, type: 2}
-  m_sharedMaterial: {fileID: -5480317595949376055, guid: ae170e91fd29a90479e906ddffb1d8ee,
+  m_fontAsset: {fileID: 11400000, guid: abdeeaba7e73d34408864db11f718c33, type: 2}
+  m_sharedMaterial: {fileID: 2285606050882678748, guid: abdeeaba7e73d34408864db11f718c33,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294042673
-  m_fontColor: {r: 0.19215687, g: 0.89411765, b: 0.94509804, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1518,16 +1518,16 @@ MonoBehaviour:
       m_Calls: []
   m_text: Song Name
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: ae170e91fd29a90479e906ddffb1d8ee, type: 2}
-  m_sharedMaterial: {fileID: -5480317595949376055, guid: ae170e91fd29a90479e906ddffb1d8ee,
+  m_fontAsset: {fileID: 11400000, guid: abdeeaba7e73d34408864db11f718c33, type: 2}
+  m_sharedMaterial: {fileID: 2285606050882678748, guid: abdeeaba7e73d34408864db11f718c33,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294042673
-  m_fontColor: {r: 0.19215687, g: 0.89411765, b: 0.94509804, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
