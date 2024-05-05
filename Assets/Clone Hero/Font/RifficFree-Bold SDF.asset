@@ -2626,7 +2626,8 @@ Material:
   m_Name: RifficFree-Bold SDF Material
   m_Shader: {fileID: 4800000, guid: 68e6db2ebdc24f95958faec2be5558d6, type: 3}
   m_ValidKeywords: []
-  m_InvalidKeywords: []
+  m_InvalidKeywords:
+  - MASK_SOFT
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -2667,7 +2668,7 @@ Material:
     - _BumpFace: 0
     - _BumpOutline: 0
     - _ColorMask: 15
-    - _CullMode: 2
+    - _CullMode: 0
     - _Diffuse: 0.5
     - _FaceDilate: 0
     - _FaceUVSpeedX: 0
@@ -2684,27 +2685,27 @@ Material:
     - _OutlineUVSpeedX: 0
     - _OutlineUVSpeedY: 0
     - _OutlineWidth: 1
-    - _PerspectiveFilter: 0.875
+    - _PerspectiveFilter: 0
     - _Reflectivity: 10
     - _ScaleRatioA: 0.7017544
     - _ScaleRatioB: 0.6770833
-    - _ScaleRatioC: 0.6770833
+    - _ScaleRatioC: 0.22592036
     - _ScaleX: 1
     - _ScaleY: 1
     - _ShaderFlags: 0
-    - _Sharpness: 0
+    - _Sharpness: 1
     - _SpecularPower: 2
     - _Stencil: 0
-    - _StencilComp: 8
+    - _StencilComp: 11
     - _StencilOp: 0
     - _StencilReadMask: 255
     - _StencilWriteMask: 255
     - _TextureHeight: 512
     - _TextureWidth: 2048
-    - _UnderlayDilate: 0
-    - _UnderlayOffsetX: 0
-    - _UnderlayOffsetY: 0
-    - _UnderlaySoftness: 0
+    - _UnderlayDilate: 0.997
+    - _UnderlayOffsetX: 1
+    - _UnderlayOffsetY: 0.986
+    - _UnderlaySoftness: 1
     - _VertexOffsetX: 0
     - _VertexOffsetY: 0
     - _WeightBold: 0.75
